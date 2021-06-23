@@ -1,27 +1,12 @@
-# JvWeather
+## Weather APP
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+### Objetivo
+Um aplicativo que consulta uma API externa, em [enter link description here](https://openweathermap.org/), para consultar a previsão do tempo para o dia atual e os set dias consecutivos.
 
-## Development server
+### Agradecimentos
+Agradeço muito a todos da DIO pela ajuda e a meus amigos que me ajudaram muito em momentos de dúvidas e espero um dia poder estar ajudando outros como eu que querem aprender mais sobre programação e novas tecnologias como vocês.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Contatos
+ - Github: [https://github.com/NaimRio](https://github.com/NaimRio)
+ - Face: [facebook.com/NaimRio](facebook.com/NaimRio)
+ - E-mail: naimrio@gmail.com
